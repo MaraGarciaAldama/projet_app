@@ -1,0 +1,78 @@
+.container{
+width: 235px ;
+background-color: #f0f8ff52;
+border-radius: 12px;
+padding: 20px;
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+height: 350px;
+margin: 40px;
+position: relative;
+left: 190px;
+top: 360px;
+}
+
+.imgLog{
+    width:64px;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.imgUser{
+    width: 140px;
+    height: 160px;
+
+}
+
+.name{
+    width: 50px;
+    font-family: "Dancing Script";
+    height: 20px;
+    display: inline-table;
+    font-size: 24px;
+}
+
+.form{
+    width: 100px;
+    height: 100px;
+}
+
+.buttonEnter{
+    width: 200px;
+    height: 40px; 
+    display: inline-table;
+    border-radius: 10px;
+    background-color: #24738ead;
+    margin: 13px 0px 0px -50px;
+    border: hidden;
+    font-style: oblique;
+    font-family: "Inter";
+    font-size: 20px;
+    color: white;
+
+
+    
+}
+.buttonOther{
+    width: 200px;
+    height: 40px;
+    display: inline-table;
+    margin: 13px 5px 15px -50px;
+    background-color: #7b68ee4f;
+    border-radius: 10px;
+    border: hidden;
+    font-style: oblique;
+    font-family: "Inter";
+    font-size: 15px;
+    color: white;
+
+
+}
+

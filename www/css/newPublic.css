@@ -1,0 +1,141 @@
+.container{
+    position: fixed;
+    width: 88%;
+    height: 40%;
+    background: rgba(217, 217, 217, 0.15);
+    border-radius: 12px 0px;
+    top: 212px;
+    left: 16px;
+    
+    
+}
+
+.comment{
+    position: fixed;
+    width: 81%;
+    height: 60px;
+    left: 21px;
+    top: 572px;
+    border-radius: 12px 0px;
+    background: rgba(217, 217, 217, 0.15);
+}
+
+.containerTwo{
+    position: fixed;
+    width: 328px;
+    height: 50px;
+    left: 16px;
+    top: 730px;
+    background: rgba(217, 217, 217, 0.15);
+    border-radius: 12px 0px;
+}
+
+.history{
+    position: fixed;
+    width: 80%;
+    height: 36%;
+    left: 30px;
+    top: 232px;
+    border-radius: 10px;  
+}
+
+.text1{
+    width: 40%;
+    height: 10px;
+    left: -5%;
+    top: 5%;
+    justify-items: right;
+    font-family: inherit;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 800;
+    line-height: 18px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    position: fixed;
+}   
+
+.imgUser2{
+    width: 20%;
+    position: fixed;
+    top: 9%;
+    left: 5%;
+}
+
+.logo{
+    width: 13%;
+    height: 6%;
+    top: 35px;
+    left: 292px;
+    position: fixed;
+}
+
+.text2{
+    position: fixed;
+    width: 62px;
+    height: 23px;
+    left: 30px;
+    top: 170px;
+    font-family: inherit;
+    font-size: 11px;
+    font-style: italic;
+    font-weight: 800;
+    line-height: 13px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #8F8080;
+}
+
+
+.star{
+    position: relative;
+    width: 45px;
+    height: 51px;
+    left: 8px;
+    top: 0px;
+    border-radius: 137px;
+}
+
+.searched{
+    position: relative;
+    width: 42px;
+    height: 49px;
+    left: 46px;
+    top: 0px;
+    border-radius: 12px;
+}
+
+.imgLog2{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    left: 89px;
+    top: -6px;  
+}
+
+.back{
+    position: relative;
+    width: 46px;
+    left: 120px;
+    border-radius: 50px; 
+}
+
+input{
+    position: fixed;
+    width: 80%;
+    height: 57px;
+    left: 21px;
+    top: 572px;
+    font-style: italic;
+    border: hidden;
+    border-radius: 12px 0px;
+    background: rgba(217, 217, 217, 0.15);  
+}
+
+.share{
+    position: fixed;
+    width: 8%;
+    left: 79%;
+    top: 18%;
+}

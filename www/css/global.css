@@ -1,0 +1,38 @@
+body{
+    position: absolute;
+    background-color: #9E85E6;
+    width: 0;
+    height: 0;
+    left: 0;
+    top: 0;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.contSup{
+    width: 19%;
+    background-color: #2dc4db52;
+    border-radius: 15px;
+    padding: 15px;
+    display: flex;
+    transform: rotate(284deg);
+    height: 149%;
+    position:fixed;
+    top: -67%;
+    }
+
+    .contInf{
+        width: 19%;
+        background-color: #2dc4db52;
+        border-radius: 15px;
+        padding: 15px;
+        display: flex;
+        transform: rotate(288deg);
+        height: 149%;
+        position: fixed;
+        top: 5%;
+        }
+

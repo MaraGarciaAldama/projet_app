@@ -1,0 +1,143 @@
+.container{
+    position: fixed;
+    width: 88%;
+    height: 40%;
+    background: rgba(217, 217, 217, 0.15);
+    border-radius: 12px 0px;
+    top: 212px;
+    left: 16px;
+    
+    
+}
+
+.containerChic{
+    position: fixed;
+    width: 80%;
+    height: 57px;
+    left: 21px;
+    top: 572px;
+    border-radius: 12px 0px;
+    background: rgba(217, 217, 217, 0.15);
+}
+
+.containerTwo{
+    position: fixed;
+    width: 328px;
+    height: 50px;
+    left: 16px;
+    top: 730px;
+    background: rgba(217, 217, 217, 0.15);
+    border-radius: 12px 0px;
+}
+
+.history{
+    position: fixed;
+    width: 80%;
+    height: 36%;
+    left: 30px;
+    top: 232px;
+    border-radius: 34px;  
+}
+
+.text1{
+    width: 40%;
+    height: 10px;
+    left: -5%;
+    top: 5%;
+    justify-items: right;
+    font-family: inherit;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 800;
+    line-height: 18px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    position: fixed;
+}   
+
+.imgUser2{
+    width: 20%;
+    position: fixed;
+    top: 9%;
+    left: 5%;
+}
+
+.logo{
+    width: 13%;
+    height: 6%;
+    top: 35px;
+    left: 292px;
+    position: fixed;
+}
+
+.text2{
+    position: fixed;
+    width: 62px;
+    height: 23px;
+    left: 30px;
+    top: 170px;
+    font-family: inherit;
+    font-size: 11px;
+    font-style: italic;
+    font-weight: 800;
+    line-height: 13px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #8F8080;
+}
+
+
+.likes{
+    position: absolute;
+    width: 53px;
+    height: 36px;
+    left: 16px;
+    top: 9px;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+
+.likes2{
+    position: absolute;
+    width: 53px;
+    height: 36px;
+    left: 60px;
+    top: 9px;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+
+.star{
+    position: absolute;
+    width: 45px;
+    height: 51px;
+    left: 8px;
+    top: 0px;
+    border-radius: 137px;
+}
+
+.searched{
+    position: absolute;
+    width: 42px;
+    height: 49px;
+    left: 95px;
+    top: 0px;
+    border-radius: 12px;
+}
+
+.imgLog2{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 180px;
+    top: 3px;  
+}
+
+.back{
+    position: absolute;
+    width: 46px;
+    left: 270px;
+    border-radius: 50px; 
+}
+

@@ -1,0 +1,158 @@
+.containerTwo{
+    position: absolute;
+    width: 328px;
+    height: 50px;
+    left: 16px;
+    top: 730px;
+    background: rgba(217, 217, 217, 0.15);
+    border-radius: 12px 0px;
+}
+
+.imgUser{
+    position: absolute;
+    width: 80px;
+    height: 88px;
+    left: 36px;
+    top: 93px;
+}
+
+.text1{
+    position: absolute;
+    width: 72px;
+    height: 33px;
+    left: 113px;
+    top: 138px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: 800;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: center;
+    text-transform: capitalize;
+    opacity: 0.9;
+
+}
+
+.text2{
+    position: absolute;
+    width: 63px;
+    height: 33px;
+    left: 202px;
+    top: 138px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: 800;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: center;
+    text-transform: capitalize;
+    opacity: 0.9;
+
+}
+
+.text3{
+    position: absolute;
+    width: 52px;
+    height: 33px;
+    left: 288px;
+    top: 138px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: 800;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: center;
+    text-transform: capitalize;
+    opacity: 0.9; 
+
+}
+
+.textUsr{
+    position: absolute;
+    width: 10px;
+    height: 25px;
+    left: 16px;
+    top: 187px;
+    font-family: "Dancing Script";
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    text-transform: capitalize;
+    opacity: 0.8;
+
+}
+
+.edit{
+    position: absolute;
+    width: 129px;
+    height: 35px;
+    left: 36px;
+    top: 234px;
+    background: rgba(46, 130, 177, 0.35);
+    border-radius: 12px;
+    opacity: 0.5;
+    color: white;
+    font-style: italic;
+    font-family: revert;
+    font-weight: 800;
+    font-size: 13px;
+    border: hidden;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+
+.share{
+    position: absolute;
+    width: 138px;
+    height: 35px;
+    left: 192px;
+    top: 234px;
+    border-radius: 12px;
+    opacity: 0.6;
+    background: rgba(46, 130, 177, 0.35);
+    border: hidden;
+    font-family: revert;
+    font-style: italic;
+    font-weight: 800;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+
+}
+.star{
+    position: absolute;
+    width: 45px;
+    height: 51px;
+    left: 8px;
+    top: 0px;
+    border-radius: 137px;
+}
+
+.searched{
+    position: absolute;
+    width: 42px;
+    height: 49px;
+    left: 95px;
+    top: 0px;
+    border-radius: 12px;
+}
+
+.imgLog2{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 180px;
+    top: 3px;  
+}
+
+.back{
+    position: absolute;
+    width: 46px;
+    left: 270px;
+    border-radius: 50px; 
+}
